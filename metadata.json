@@ -1,0 +1,6 @@
+{
+  "name": "AI Trip Planner",
+  "description": "A React and Tailwind CSS application for planning and managing trips, with AI-powered suggestions for activities, packing lists, travel tips, and famous spots from Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
